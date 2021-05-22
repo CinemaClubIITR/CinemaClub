@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.firstimage
+{position: absolute;
+    width: 502px;
+    height: 206px;
+    left: 860px;
+    top: 296px;
+    transform: rotate(-180deg);
+    background-image: url(./../../images/image2.png);
+
+}
+
+.secondimage
+{
+    position: absolute;
+    width: 322.36px;
+    height: 388.8px;
+    left: 994px;
+    top: 762px;
+    background-image: url(./../../images/image3.png);
+}
+.thirdimage
+{position: absolute;
+    width: 423.05px;
+    height: 340px;
+    left: 938px;
+    top: 1390px;
+    background-image: url(./../../images/image4.png);
+
+}
+.fourthimage
+{
+    position: absolute;
+width: 455.65px;
+height: 318.46px;
+left: 920px;
+top: 1830px;
+background-image: url(./../../images/image5.png);
+
+}

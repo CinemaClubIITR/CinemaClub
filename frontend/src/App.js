@@ -1,10 +1,11 @@
 import RouterView from "components/RouterView";
+import Home from "routes/Home";
 
 function App() {
   return (
-    <div className="App">
-      <RouterView />
-    </div>
+    <>
+    <Home/> 
+    </>
   );
 }
 
