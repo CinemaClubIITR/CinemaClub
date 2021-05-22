@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.leftsectiondiv
+{
+    width: 50%;
+    height:max-content;
+    background-color: white;
+    padding-top: 281px;
+    padding-left: 118px;
+    padding-bottom: 238px;
+    display: flex;
+    flex-direction: column;
+    gap: 304px;
+}
